@@ -235,7 +235,7 @@ def test_instances(r,n):
 r_values = [1, 2, 3, 4, 5, 6, 7]  # Example values for r
 n_values = [1, 2, 3, 4, 5, 6, 7]  # Example values for n
 
-# grid_search(r_values, n_values)
+grid_search(r_values, n_values)
 
 r, n = 7, 7
 
